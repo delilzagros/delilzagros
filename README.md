@@ -51,8 +51,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=delilzagros&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=delilzagros&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delilzagros&theme=github_dark" />
+<img height="165" src="https://streak-stats.demolab.com/?user=delilzagros&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 </div>
 

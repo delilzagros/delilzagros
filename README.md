@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+whoami;Petrus+%2F%2F+Yaz%C4%B1l%C4%B1mc%C4%B1+%26+Hacker;OSINT+%C2%B7+Siber+G%C3%BCvenlik+%C2%B7+A%C3%A7%C4%B1k+Kaynak;%22Kendini+bil.%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+whoami;Petrus+%2F%2F+Developer+%26+Hacker;OSINT+%C2%B7+Cybersecurity+%C2%B7+Open+Source;%22Know+thyself.%22" alt="Typing SVG" />
 
 <br/>
 
-[![Cybergah](https://img.shields.io/badge/cybergah.com-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)](https://cybergah.com/tr/)
+[![Cybergah](https://img.shields.io/badge/cybergah.com-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)](https://cybergah.com/)
 [![X](https://img.shields.io/badge/@AEVERTIS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AEVERTIS)
 ![Location](https://img.shields.io/badge/Amed-000000?style=for-the-badge&logo=googlemaps&logoColor=00FF41)
 
@@ -16,38 +16,38 @@
 ┌──(petrus㉿cybergah)-[~]
 └─$ cat about.txt
 
-  isim       : Petrus
-  konum      : Amed
-  rol        : Yazılımcı // Hacker // OSINT araştırmacısı
-  odak       : siber güvenlik, açık kaynak istihbarat, çevrimdışı araçlar
-  felsefe    : "Kendini bil."
-  durum      : [■■■■■■■■■□] sistem kuruluyor...
+  name       : Petrus
+  location   : Amed
+  role       : Developer // Hacker // OSINT researcher
+  focus      : cybersecurity, open-source intelligence, offline-first tools
+  motto      : "Know thyself."
+  status     : [■■■■■■■■■□] system booting...
 ```
 
-### ⚡ Neler yapıyorum
+### ⚡ What I do
 
-- 🕵️ **OSINT** — kullanıcı adı, e-posta ve telefondan dijital iz takibi araçları
-- 🛡️ **Siber güvenlik** — kritik altyapı, ICS/PLC güvenliği, gizlilik rehberleri
-- 🐍 **Otomasyon** — Python ile istihbarat toplama ve Telegram OSINT araç kitleri
-- 🔌 **Çevrimdışı yazılım** — internet olmadan çalışan, gizliliğe saygılı araçlar
-- 🌍 **Topluluk** — teknolojiyi herkes için, kendi dilinde erişilebilir kılmak
+- 🕵️ **OSINT** — tools that trace digital footprints from usernames, emails and phone numbers
+- 🛡️ **Cybersecurity** — critical infrastructure, ICS/PLC security, privacy guides
+- 🐍 **Automation** — Python intelligence gathering and Telegram OSINT toolkits
+- 🔌 **Offline software** — privacy-respecting tools that run without an internet connection
+- 🌍 **Community** — making technology accessible to everyone, in their own language
 
-### 🧰 Cephanelik
+### 🧰 Arsenal
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,js,ts,react,nodejs,docker,git,github,vscode&perline=12" />
 </p>
 
-### 🛰️ Cybergah projeleri
+### 🛰️ Cybergah projects
 
-| Proje | Ne işe yarar |
+| Project | What it does |
 |---|---|
-| 🔎 [**Parmak İzi**](https://parmakizi.cybergah.com) | Kullanıcı adı, isim, e-posta ya da telefondan onlarca platformda dijital iz taraması |
-| 🎙️ **Bêje** | İnternetsiz dikte — sesi cihazda yazıya dönüştürür |
-| 📖 **Bideng** | Açık kaynak sesli belge okuyucu (Windows · Linux · macOS) |
-| 🗣️ **Xwendevan** | Belgeleri Kurmancî ve Türkçe seslerle çevrimdışı dinleme |
+| 🔎 [**Parmak İzi**](https://parmakizi.cybergah.com) | Digital footprint search across dozens of platforms from a username, name, email or phone number |
+| 🎙️ **Bêje** | Offline dictation — turns speech into text right on your device |
+| 📖 **Bideng** | Open-source audio document reader (Windows · Linux · macOS) |
+| 🗣️ **Xwendevan** | Listen to documents offline in Kurmanji and Turkish voices |
 
-### 📊 Sinyal
+### 📊 Signal
 
 <div align="center">
 
@@ -61,9 +61,9 @@
 <div align="center">
 
 ```
-[ bağlantı şifreli ]  ·  her etkileşim ardında bir iz bırakır  ·  [ oturum açık ]
+[ connection encrypted ]  ·  every interaction leaves a trace  ·  [ session active ]
 ```
 
-![visitors](https://komarev.com/ghpvc/?username=delilzagros&color=00ff41&style=flat-square&label=ziyaret%C3%A7i)
+![visitors](https://komarev.com/ghpvc/?username=delilzagros&color=00ff41&style=flat-square&label=visitors)
 
 </div>

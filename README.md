@@ -47,7 +47,7 @@
 
 | Project | What it does |
 |---|---|
-| 🔎 [**Parmak İzi**](https://github.com/cybergah/parmakizi) | OSINT CLI: finds where a username exists across 32 platforms — verified rules, Tor support ([web](https://parmakizi.cybergah.com)) |
+| 🔎 [**Parmak İzi**](https://github.com/cybergah/parmakizi) | OSINT CLI: finds where a username exists across 52 platforms — verified rules, Tor support ([web](https://parmakizi.cybergah.com)) |
 | 🗣️ [**Xwendevan**](https://github.com/cybergah/xwendevan) | Offline document reader with built-in Kurmanji & Turkish voices (Android) — PDF · DOCX · EPUB · OCR |
 | 🔥 [**Besop**](https://github.com/cybergah/besop) | Secure file shredder — overwrites 50 times, then deletes for good (Android · Windows · macOS) |
 | 🔐 [**GPG Gabar**](https://github.com/cybergah/gpg-gabar-android) | PGP/OpenPGP text & file encryption for Android |

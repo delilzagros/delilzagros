@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/badge/@AEVERTIS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AEVERTIS)
 [![Telegram](https://img.shields.io/badge/@cybergahcom-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/cybergahcom)
 [![Telegram](https://img.shields.io/badge/@aevertis-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/aevertis)
-[![Email](https://img.shields.io/badge/cybergah8@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:cybergah8@gmail.com)
+[![Email](https://img.shields.io/badge/delilzagros146@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:delilzagros146@gmail.com)
 ![Location](https://img.shields.io/badge/Amed-000000?style=for-the-badge&logo=googlemaps&logoColor=00FF41)
 
 </div>

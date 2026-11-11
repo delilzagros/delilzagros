@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+whoami;Petrus+%2F%2F+Developer+%26+Hacker;OSINT+%C2%B7+Cybersecurity+%C2%B7+Open+Source;%22Know+thyself.%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+whoami;Petrus+%2F%2F+Developer+%26+Hacker;Founder+of+%40cybergah;Building+AI+that+never+phones+home;OSINT+%C2%B7+Cybersecurity+%C2%B7+Open+Source;%22Know+thyself.%22" alt="Typing SVG" />
 
 <br/>
 
@@ -22,6 +22,8 @@
   name       : Petrus
   location   : Amed
   role       : Developer // Hacker // OSINT researcher
+  founder    : Cybergah  (github.com/cybergah)
+  building   : Airgap, a local AI coding agent that treats the model as untrusted
   focus      : cybersecurity, open-source intelligence, offline-first tools
   motto      : "Know thyself."
   status     : [■■■■■■■■■□] system booting...
@@ -29,6 +31,7 @@
 
 ### ⚡ What I do
 
+- 🤖 **Local AI** — security-hardened coding agents that run on your own GPU, not someone else's cloud
 - 🕵️ **OSINT** — tools that trace digital footprints from usernames, emails and phone numbers
 - 🛡️ **Cybersecurity** — critical infrastructure, ICS/PLC security, privacy guides
 - 🐍 **Automation** — Python intelligence gathering and Telegram OSINT toolkits
@@ -47,13 +50,14 @@
 
 | Project | What it does |
 |---|---|
+| 🛡️ [**Airgap**](https://github.com/cybergah/airgap) | Security-hardened AI coding agent, 100% local on Ollama: approval gates, real-parser command analysis, prompt-injection defense, network-less sandbox |
 | 🔎 [**Parmak İzi**](https://github.com/cybergah/parmakizi) | OSINT CLI: finds where a username exists across 52 platforms — verified rules, Tor support ([web](https://parmakizi.cybergah.com)) |
 | 🗣️ [**Xwendevan**](https://github.com/cybergah/xwendevan) | Offline document reader with built-in Kurmanji & Turkish voices (Android) — PDF · DOCX · EPUB · OCR |
 | 🔥 [**Besop**](https://github.com/cybergah/besop) | Secure file shredder — overwrites 50 times, then deletes for good (Android · Windows · macOS) |
 | 🔐 [**GPG Gabar**](https://github.com/cybergah/gpg-gabar-android) | PGP/OpenPGP text & file encryption for Android |
 | 🤖 [**kurdAI**](https://github.com/cybergah/kurdai-desktop) | Kurdish-aware online/offline AI assistant for desktop |
 | 🧠 [**Cybergah Asistan**](https://github.com/cybergah/Cybergah-Asistan) | Kurdish AI assistant |
-| 🌐 [**Werger**](https://github.com/cybergah/Werger) | Kurdish translation tools |
+| 🌐 [**Wergêr**](https://github.com/cybergah/werger-translate) | Free offline & online AI translator for Kurdish and many other languages (Android · Windows) |
 | ⬇️ [**KEW**](https://github.com/cybergah/KEW) | Free video downloader ([Windows build](https://github.com/cybergah/KEW-Windows)) |
 
 ### 📊 Signal

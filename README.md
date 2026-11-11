@@ -42,12 +42,18 @@
 
 ### 🛰️ Cybergah projects
 
+> Built and maintained under [**@cybergah**](https://github.com/cybergah) — offline-first, privacy-respecting, open source.
+
 | Project | What it does |
 |---|---|
-| 🔎 [**Parmak İzi**](https://parmakizi.cybergah.com) | Digital footprint search across dozens of platforms from a username, name, email or phone number |
-| 🎙️ **Bêje** | Offline dictation — turns speech into text right on your device |
-| 📖 **Bideng** | Open-source audio document reader (Windows · Linux · macOS) |
-| 🗣️ **Xwendevan** | Listen to documents offline in Kurmanji and Turkish voices |
+| 🗣️ [**Xwendevan**](https://github.com/cybergah/xwendevan) | Offline document reader with built-in Kurmanji & Turkish voices (Android) — PDF · DOCX · EPUB · OCR |
+| 🔥 [**Besop**](https://github.com/cybergah/besop) | Secure file shredder — overwrites 50 times, then deletes for good (Android · Windows · macOS) |
+| 🔐 [**GPG Gabar**](https://github.com/cybergah/gpg-gabar-android) | PGP/OpenPGP text & file encryption for Android |
+| 🤖 [**kurdAI**](https://github.com/cybergah/kurdai-desktop) | Kurdish-aware online/offline AI assistant for desktop |
+| 🧠 [**Cybergah Asistan**](https://github.com/cybergah/Cybergah-Asistan) | Kurdish AI assistant |
+| 🌐 [**Werger**](https://github.com/cybergah/Werger) | Kurdish translation tools |
+| ⬇️ [**KEW**](https://github.com/cybergah/KEW) | Free video downloader ([Windows build](https://github.com/cybergah/KEW-Windows)) |
+| 🔎 [**Parmak İzi**](https://parmakizi.cybergah.com) | Digital footprint search across dozens of platforms |
 
 ### 📊 Signal
 

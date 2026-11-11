@@ -47,6 +47,7 @@
 
 | Project | What it does |
 |---|---|
+| 🔎 [**Parmak İzi**](https://github.com/cybergah/parmakizi) | OSINT CLI: finds where a username exists across 32 platforms — verified rules, Tor support ([web](https://parmakizi.cybergah.com)) |
 | 🗣️ [**Xwendevan**](https://github.com/cybergah/xwendevan) | Offline document reader with built-in Kurmanji & Turkish voices (Android) — PDF · DOCX · EPUB · OCR |
 | 🔥 [**Besop**](https://github.com/cybergah/besop) | Secure file shredder — overwrites 50 times, then deletes for good (Android · Windows · macOS) |
 | 🔐 [**GPG Gabar**](https://github.com/cybergah/gpg-gabar-android) | PGP/OpenPGP text & file encryption for Android |
@@ -54,7 +55,6 @@
 | 🧠 [**Cybergah Asistan**](https://github.com/cybergah/Cybergah-Asistan) | Kurdish AI assistant |
 | 🌐 [**Werger**](https://github.com/cybergah/Werger) | Kurdish translation tools |
 | ⬇️ [**KEW**](https://github.com/cybergah/KEW) | Free video downloader ([Windows build](https://github.com/cybergah/KEW-Windows)) |
-| 🔎 [**Parmak İzi**](https://parmakizi.cybergah.com) | Digital footprint search across dozens of platforms |
 
 ### 📊 Signal
 

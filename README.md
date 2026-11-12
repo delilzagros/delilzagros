@@ -51,7 +51,7 @@
 | Project | What it does |
 |---|---|
 | 🛡️ [**Airgap**](https://github.com/cybergah/airgap) | Security-hardened AI coding agent, 100% local on Ollama: approval gates, real-parser command analysis, prompt-injection defense, network-less sandbox |
-| 🔎 [**Parmak İzi**](https://github.com/cybergah/parmakizi) | OSINT CLI: finds where a username exists across 52 platforms — verified rules, Tor support ([web](https://parmakizi.cybergah.com)) |
+| 🔎 [**Parmak İzi**](https://github.com/cybergah/parmakizi) | OSINT CLI: finds where a username exists across 58 platforms — verified rules, Tor support ([web](https://parmakizi.cybergah.com)) |
 | 🗣️ [**Xwendevan**](https://github.com/cybergah/xwendevan) | Offline document reader with built-in Kurmanji & Turkish voices (Android) — PDF · DOCX · EPUB · OCR |
 | 🔥 [**Besop**](https://github.com/cybergah/besop) | Secure file shredder — overwrites 50 times, then deletes for good (Android · Windows · macOS) |
 | 🔐 [**GPG Gabar**](https://github.com/cybergah/gpg-gabar-android) | PGP/OpenPGP text & file encryption for Android |

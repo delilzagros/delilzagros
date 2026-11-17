@@ -8,7 +8,6 @@
 [![X](https://img.shields.io/badge/@AEVERTIS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AEVERTIS)
 [![Telegram](https://img.shields.io/badge/@cybergahcom-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/cybergahcom)
 [![Telegram](https://img.shields.io/badge/@aevertis-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/aevertis)
-[![Email](https://img.shields.io/badge/delilzagros146@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:delilzagros146@gmail.com)
 ![Location](https://img.shields.io/badge/Amed-000000?style=for-the-badge&logo=googlemaps&logoColor=00FF41)
 
 </div>
@@ -23,7 +22,7 @@
   location   : Amed
   role       : Developer // Hacker // OSINT researcher
   founder    : Cybergah  (github.com/cybergah)
-  building   : Airgap, a local AI coding agent that treats the model as untrusted
+  building   : Turkey Censorship Observatory, Airgap, Parmak İzi
   focus      : cybersecurity, open-source intelligence, offline-first tools
   motto      : "Know thyself."
   status     : [■■■■■■■■■□] system booting...
@@ -50,8 +49,9 @@
 
 | Project | What it does |
 |---|---|
+| 📡 [**Turkey Censorship Observatory**](https://github.com/cybergah/sansur-gozlemevi) | Measures every day which of ~2,100 websites are blocked in Turkey, **how** (DNS, IP or SNI) and **since when**, cross-checked from outside the country. Open data with JSON schemas ([live page](https://cybergah.github.io/sansur-gozlemevi/)) |
 | 🛡️ [**Airgap**](https://github.com/cybergah/airgap) | Security-hardened AI coding agent, 100% local on Ollama: approval gates, real-parser command analysis, prompt-injection defense, network-less sandbox |
-| 🔎 [**Parmak İzi**](https://github.com/cybergah/parmakizi) | OSINT CLI: finds where a username exists across 58 platforms — verified rules, Tor support ([web](https://parmakizi.cybergah.com)) |
+| 🔎 [**Parmak İzi**](https://github.com/cybergah/parmakizi) | OSINT CLI: finds where a username exists across 87 platforms — rules self-tested weekly against the live sites, Tor support ([web](https://parmakizi.cybergah.com)) |
 | 🗣️ [**Xwendevan**](https://github.com/cybergah/xwendevan) | Offline document reader with built-in Kurmanji & Turkish voices (Android) — PDF · DOCX · EPUB · OCR |
 | 🔥 [**Besop**](https://github.com/cybergah/besop) | Secure file shredder — overwrites 50 times, then deletes for good (Android · Windows · macOS) |
 | 🔐 [**GPG Gabar**](https://github.com/cybergah/gpg-gabar-android) | PGP/OpenPGP text & file encryption for Android |
@@ -59,6 +59,16 @@
 | 🧠 [**Cybergah Asistan**](https://github.com/cybergah/Cybergah-Asistan) | Kurdish AI assistant |
 | 🌐 [**Wergêr**](https://github.com/cybergah/werger-translate) | Free offline & online AI translator for Kurdish and many other languages (Android · Windows) |
 | ⬇️ [**KEW**](https://github.com/cybergah/KEW) | Free video downloader ([Windows build](https://github.com/cybergah/KEW-Windows)) |
+
+### 🤝 Upstream contributions
+
+Merged into widely used open-source security and OSINT tools:
+
+| Project | ⭐ | Contribution |
+|---|---|---|
+| [**Maigret**](https://github.com/soxoj/maigret) | 40k+ | New site check via a public API ([#3390](https://github.com/soxoj/maigret/pull/3390)), detection of geo-block and maintenance pages ([#3395](https://github.com/soxoj/maigret/pull/3395)), site rule fixes ([#3389](https://github.com/soxoj/maigret/pull/3389), [#3375](https://github.com/soxoj/maigret/pull/3375)) |
+| [**theHarvester**](https://github.com/laramies/theHarvester) | 18k+ | Consistent handling of finished and cancelled runs ([#2669](https://github.com/laramies/theHarvester/pull/2669)) |
+| [**subfinder**](https://github.com/projectdiscovery/subfinder) (ProjectDiscovery) | 14k+ | Chaos source now honors proxy, timeout and rate limits ([#2004](https://github.com/projectdiscovery/subfinder/pull/2004)) |
 
 ### 📊 Signal
 

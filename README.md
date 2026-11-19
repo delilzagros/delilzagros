@@ -6,6 +6,7 @@
 
 [![Cybergah](https://img.shields.io/badge/cybergah.com-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)](https://cybergah.com/)
 [![X](https://img.shields.io/badge/@AEVERTIS-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AEVERTIS)
+[![DevHarbor](https://img.shields.io/badge/DevHarbor_community-0c9496?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devharborhq)
 [![Telegram](https://img.shields.io/badge/@cybergahcom-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/cybergahcom)
 [![Telegram](https://img.shields.io/badge/@aevertis-000000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/aevertis)
 ![Location](https://img.shields.io/badge/Amed-000000?style=for-the-badge&logo=googlemaps&logoColor=00FF41)
@@ -59,6 +60,13 @@
 | 🧠 [**Cybergah Asistan**](https://github.com/cybergah/Cybergah-Asistan) | Kurdish AI assistant |
 | 🌐 [**Wergêr**](https://github.com/cybergah/werger-translate) | Free offline & online AI translator for Kurdish and many other languages (Android · Windows) |
 | ⬇️ [**KEW**](https://github.com/cybergah/KEW) | Free video downloader ([Windows build](https://github.com/cybergah/KEW-Windows)) |
+
+### ⚓ DevHarbor community
+
+I run **[DevHarbor](https://t.me/devharborhq)**, a global Telegram community for developers: ask questions, share projects,
+find jobs and build together. Verified joins and malware-scanned files keep it safe. English, free forever.
+
+<a href="https://t.me/devharborhq"><img src="https://raw.githubusercontent.com/delilzagros/devharbor/main/promo/social-preview.png" width="460" alt="Join DevHarbor on Telegram: t.me/devharborhq"></a>
 
 ### 🤝 Upstream contributions
 
